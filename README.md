@@ -1,3 +1,5 @@
+https://github.com/fdiba-inf/ubung-1-yoananb/invitations
+
 # Übung 1
 Quellcode der Vorlesung: https://github.com/fdiba-inf/vorlesung
 
